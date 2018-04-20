@@ -1,0 +1,19 @@
+THE MANUAL
+
+Enter input in the format of: "File/Directory name" "-argument1" "-argument2"
+
+ARGUMENTS:
+-help    : Runs a quick tutorial of the program.
+-man     : You're reading it.
+-meta    : Hash the meta data of selected file/directory.
+-remove  : This argument has not been implemented yet.
+-replace : This argument has not been implemented yet.
+-hash1   : Use the hash1 hash function.
+-hash2   : Use the hash2 hash function.
+-hash3   : Use the hash3 hash function.
+-md2     : Use the md2 hash function.
+-md5     : Use the md5 hash function.
+-sha1    : Use the sha1 hash function.
+-sha256  : Use the sha256 hash function.
+-sha384  : Use the sha384 hash function.
+-sha512  : Use the sha512 hash function.
